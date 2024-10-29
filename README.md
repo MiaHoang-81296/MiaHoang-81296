@@ -23,7 +23,7 @@ For Data Analysis
 I am continually expanding my knowledge in advanced machine learning, cloud computing, and mastering new JavaScript Frameworks 
 
 📩 Let's connect 
-* ([Linkedln](https://www.linkedin.com/in/mia-hoang/)
+* [Linkedln](https://www.linkedin.com/in/mia-hoang/)
 *
 *
 ---
